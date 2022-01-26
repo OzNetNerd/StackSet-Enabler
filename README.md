@@ -1,5 +1,7 @@
 # StackSet Enabler
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/3bd4013f-e059-465f-a692-dd498348035f.svg?orgId=401166500955)](https://app.soluble.cloud/repos/details/github.com/oznetnerd/stackset-enabler?orgId=401166500955)  
+
 StackSet Enabler deploys the required StackSet roles to your accounts. See the [self-managed permissions](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/stacksets-prereqs-self-managed.html) document for more information.
 
 ## Workflow
